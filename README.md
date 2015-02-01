@@ -1,1 +1,3 @@
-# cookingtrials
+A non code repository to make creating and sharing recipes more social.
+
+Still in testing mode...
